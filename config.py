@@ -40,8 +40,8 @@ FORCE_SUB_CHANNEL_4 = int(os.environ.get("FORCE_SUB_CHANNEL_4", "-1001940231860"
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
-START_PIC = os.environ.get("START_PIC", "https://envs.sh/0kT.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/0kp.jpg")
+START_PIC = os.environ.get("START_PIC", "https://envs.sh/0HH.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/0Hg.jpg")
 
 #start, help about message
 HELP_TXT = "<b>1. First Join the channel . Tap on Original link again or Reload  \n3. Tap on Start and Done ✅.</b>"
