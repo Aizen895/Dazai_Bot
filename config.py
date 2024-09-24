@@ -19,7 +19,7 @@ APP_ID = int(os.environ.get("APP_ID", "28713982"))
 API_HASH = os.environ.get("API_HASH", "237e15f7c006b10b4fa7c46fee7a5377")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002200969951"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002001099817"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "7195990500"))
@@ -40,8 +40,8 @@ FORCE_SUB_CHANNEL_4 = int(os.environ.get("FORCE_SUB_CHANNEL_4", "-1001940231860"
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
-START_PIC = os.environ.get("START_PIC", "http://telegra.ph/file/4ca23dac2305a53868a35.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "http://telegra.ph/file/53757d552ea0f75fbc013.jpg")
+START_PIC = os.environ.get("START_PIC", "https://envs.sh/0HM.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/0HX.jpg")
 
 #start, help about message
 HELP_TXT = "<b>1. First Join the channel \n2. Tap on Original link again or Reload  \n3. Tap on Start and Done ✅.</b>"
